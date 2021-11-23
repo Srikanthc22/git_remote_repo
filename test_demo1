@@ -1,3 +1,7 @@
 first line
+<<<<<<< HEAD
 testt
 third edit from remote repo
+=======
+lin2 
+>>>>>>> 064aafbd771e948d87927db27997e4a13918bb65
