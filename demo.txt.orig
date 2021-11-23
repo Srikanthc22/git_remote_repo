@@ -1,6 +1,0 @@
-Line 1 from first_branch
-<<<<<<< HEAD
-demo1
-=======
-line 2e from demo
->>>>>>> master
