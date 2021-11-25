@@ -1,3 +1,0 @@
-line 1 from first branch local
-line 2 from first branch local
-line 3 from first branch local
