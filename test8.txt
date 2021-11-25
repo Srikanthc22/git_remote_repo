@@ -1,7 +1,0 @@
-line 1
-<<<<<<< HEAD
-line 2
-line 3
-=======
->>>>>>> parent of 9a4f9eb (d)
-line 3333
